@@ -1,0 +1,107 @@
+[
+    {
+        "symbol": "ASHOKLEY",
+        "quantity": 390,
+        "buy_price": 87.69
+    },
+    {
+        "symbol": "COALINDIA",
+        "quantity": 10,
+        "buy_price": 534.7
+    },
+    {
+        "symbol": "ETERNAL",
+        "quantity": 4,
+        "buy_price": 137.55
+    },
+    {
+        "symbol": "GAIL",
+        "quantity": 10,
+        "buy_price": 237.0
+    },
+    {
+        "symbol": "GMRAIRPORT",
+        "quantity": 50,
+        "buy_price": 86.55
+    },
+    {
+        "symbol": "HFCL",
+        "quantity": 50,
+        "buy_price": 148.85
+    },
+    {
+        "symbol": "HINDCOPPER",
+        "quantity": 15,
+        "buy_price": 277.95
+    },
+    {
+        "symbol": "IDFCFIRSTB",
+        "quantity": 68,
+        "buy_price": 73.05
+    },
+    {
+        "symbol": "IEX",
+        "quantity": 1,
+        "buy_price": 155.45
+    },
+    {
+        "symbol": "IRB",
+        "quantity": 775,
+        "buy_price": 60.58
+    },
+    {
+        "symbol": "LTF",
+        "quantity": 50,
+        "buy_price": 170.8
+    },
+    {
+        "symbol": "M&M",
+        "quantity": 1,
+        "buy_price": 1697.0
+    },
+    {
+        "symbol": "MOREPENLAB",
+        "quantity": 10,
+        "buy_price": 46.08
+    },
+    {
+        "symbol": "NETWORK18",
+        "quantity": 29,
+        "buy_price": 113.51
+    },
+    {
+        "symbol": "NTPC",
+        "quantity": 5,
+        "buy_price": 410.15
+    },
+    {
+        "symbol": "PFC",
+        "quantity": 20,
+        "buy_price": 457.0
+    },
+    {
+        "symbol": "SALSTEEL",
+        "quantity": 20,
+        "buy_price": 18.34
+    },
+    {
+        "symbol": "SUZLON",
+        "quantity": 200,
+        "buy_price": 44.94
+    },
+    {
+        "symbol": "TATASTEEL",
+        "quantity": 10,
+        "buy_price": 135.55
+    },
+    {
+        "symbol": "TRIDENT",
+        "quantity": 50,
+        "buy_price": 44.95
+    },
+    {
+        "symbol": "URJA",
+        "quantity": 100,
+        "buy_price": 39.85
+    }
+]
