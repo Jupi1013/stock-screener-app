@@ -16,8 +16,8 @@
     },
     {
         "symbol": "GAIL",
-        "quantity": 10,
-        "buy_price": 237.0
+        "quantity": 11,
+        "buy_price": 231.6409090909091
     },
     {
         "symbol": "GMRAIRPORT",
@@ -103,5 +103,25 @@
         "symbol": "URJA",
         "quantity": 100,
         "buy_price": 39.85
+    },
+    {
+        "symbol": "EIHOTEL",
+        "quantity": 1,
+        "buy_price": 397.6
+    },
+    {
+        "symbol": "UCOBANK",
+        "quantity": 1,
+        "buy_price": 29.37
+    },
+    {
+        "symbol": "INDHOTEL",
+        "quantity": 2,
+        "buy_price": 782.25
+    },
+    {
+        "symbol": "LEMONTREE",
+        "quantity": 1,
+        "buy_price": 177.0
     }
 ]

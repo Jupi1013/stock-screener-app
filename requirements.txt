@@ -7,3 +7,4 @@ kiteconnect
 plotly
 pandas-ta
 google-generativeai
+```6.  **Upload `requirements.txt` to your GitHub repository** along with your other files.
