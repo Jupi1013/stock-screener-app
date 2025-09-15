@@ -1,0 +1,76 @@
+{
+    "last_monthly_sip_date": "2025-09-15",
+    "last_weekly_sip_date": "2025-09-15",
+    "holdings": [
+        {
+            "qty": 1,
+            "name": "Max Healthcare",
+            "type": "Stock",
+            "symbol": "MAXHEALTH.NS",
+            "avg_price": 1182.2
+        },
+        {
+            "qty": 2,
+            "name": "Indian Hotels",
+            "type": "Stock",
+            "symbol": "INDHOTEL.NS",
+            "avg_price": 782.25
+        },
+        {
+            "qty": 2,
+            "name": "Cyient DLM",
+            "type": "Stock",
+            "symbol": "CYIENTDLM.NS",
+            "avg_price": 461.9
+        },
+        {
+            "qty": 5,
+            "name": "Karur Vysya Bank",
+            "type": "Stock",
+            "symbol": "KARURVYSYA.NS",
+            "avg_price": 210.88
+        },
+        {
+            "qty": 25,
+            "name": "IRB Infra",
+            "type": "Stock",
+            "symbol": "IRB.NS",
+            "avg_price": 42.82
+        },
+        {
+            "qty": 14,
+            "name": "IDFC First Bank",
+            "type": "Stock",
+            "symbol": "IDFCFIRSTB.NS",
+            "avg_price": 72.27
+        },
+        {
+            "qty": 8,
+            "name": "Gold ETF (Monthly)",
+            "type": "ETF",
+            "symbol": "GOLDBEES.NS",
+            "avg_price": 91.3
+        },
+        {
+            "qty": 6,
+            "name": "Silver ETF (Monthly)",
+            "type": "ETF",
+            "symbol": "SILVERBEES.NS",
+            "avg_price": 123.46
+        },
+        {
+            "qty": 5,
+            "name": "Gold ETF (Weekly)",
+            "type": "ETF",
+            "symbol": "GOLDBEES.NS",
+            "avg_price": 91.16
+        },
+        {
+            "qty": 4,
+            "name": "Silver ETF (Weekly)",
+            "type": "ETF",
+            "symbol": "SILVERBEES.NS",
+            "avg_price": 123.39
+        }
+    ]
+}
